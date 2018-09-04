@@ -1,2 +1,2 @@
 # gTest
-the java project for studing
+a simple java project
